@@ -2,6 +2,8 @@
 Bulletin Board System (BBS) Project Public
 CS200: Sharing Information History
 
+Recruiters: Please email me at elif_cebe@brown.edu to access the code!
+
 This project is a Python-based simulation of a 1978-era Bulletin Board System (BBS), developed as part of Brown University's CS200 course. It emulates early computing constraints to deepen understanding of resource-limited systems and information-sharing design.
 
 ## 🧠 Purpose
